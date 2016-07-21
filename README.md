@@ -1,5 +1,7 @@
 ## Synopsis
 
+#### In fact, there is invisible characters at the begining of the data-h2.sql file that cause SQL error at runtime !
+
 A sample project of Spring-Boot-Data-JPA that initialize an embeded database (h2).
 It produces an error at startup :
 
